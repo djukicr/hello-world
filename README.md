@@ -1,3 +1,3 @@
 # hello-world
 Probno skladište
-Neki probni tekst bez veze
+Neki probni tekst bez veze.
